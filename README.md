@@ -8,4 +8,4 @@
 sandhya692/sandhya692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Iam Sandhya Rani from Hyderabad.
+Iam Sandhya Rani from Hyderabad.I completed my btech.
